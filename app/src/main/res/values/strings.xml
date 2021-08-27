@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TSF_GRIP_Social_Media_Login</string>
+    <string name="facebook_app_id">2892808921047718</string>
+    <string name="fb_login_protocol_scheme">fb2892808921047718</string>
+    <string name="todo">TODO</string>
+
+</resources>
